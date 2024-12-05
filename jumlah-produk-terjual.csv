@@ -1,0 +1,13 @@
+echo "Bulan,Produk_Terjual
+Januari,120
+Februari,140
+Maret,135
+April,150
+Mei,160
+Juni,155
+Juli,145
+Agustus,170
+September,165
+Oktober,150
+November,140
+Desember,180" > jumlah_terjual_2021.csv
